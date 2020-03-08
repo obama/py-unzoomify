@@ -14,3 +14,7 @@ you can supply the tile base url and image size in pixels.
 
 you can supply the tile base url and image size in pixels and also some zoom level if you dont want the highest resolution
 
+# see also
+if you dont want to download the image yourself there are already other PHP projects that also can download a many more viewers than leaflet zoomify.
+
+https://code.ivysaur.me/unzoomify/
